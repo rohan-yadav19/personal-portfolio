@@ -65,7 +65,7 @@ const Hero = () => {
           <div className="w-64 h-64 md:w-80 md:h-80 mx-auto bg-gradient-to-tr from-primary-600 to-primary-400 rounded-full overflow-hidden border-8 border-white dark:border-slate-800 shadow-2xl">
             {/* Placeholder image - in a real app, user would replace this */}
             <img
-              src="images/profile/rohan.jpeg"
+              src="images/profile/rohan.png"
               alt="Rohan Yadav"
               className="w-full h-full object-cover"
             />

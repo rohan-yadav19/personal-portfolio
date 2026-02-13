@@ -8,7 +8,7 @@ const education = [
     institution: "Sagarmatha Secondary School",
     period: "2020 - 2022",
     description: "Completed +2 with a focus on Science and Mathematics.",
-    achievements: ["GPA: 4.0/4.0"],
+    achievements: ["GPA: 3.58/4.0"],
   },
   {
     degree: "Bachelor of Technology and Engineering",
